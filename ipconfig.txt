@@ -1,0 +1,31 @@
+
+Windows IP Configuration
+
+
+Unknown adapter Подключение по локальной сети:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Подключение по локальной сети* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Подключение по локальной сети* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Беспроводная сеть:
+
+   Connection-specific DNS Suffix  . : lan
+   Link-local IPv6 Address . . . . . : fe80::a4b4:9f7c:8d73:e295%14
+   IPv4 Address. . . . . . . . . . . : 192.168.0.111
+   Subnet Mask . . . . . . . . . . . : 255.255.252.0
+   Default Gateway . . . . . . . . . : 192.168.1.1
+
+Ethernet adapter Сетевое подключение Bluetooth:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
